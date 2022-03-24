@@ -1,3 +1,4 @@
+
 class Utils {
     /**
      * Function filters array of objects by given property
@@ -39,4 +40,4 @@ class Utils {
 
 }
 
-module.exports = Utils;
+export default Utils;
