@@ -35,7 +35,8 @@ React, sass, react router dom, reactstrap for ui, uuid, redux-thunk, csvtojson, 
 
 ## Approach
 
-I used the kebab-case naming style for my css classnames, used local storage to save user data, and fake api with csv json package to parse the data on the front side. Also i wrote some backend with nodejs, used passport.js for authentication and mongo atlas, but for less time i didn't finished all implementation, but attached is the link
+I used the kebab-case naming style for my css classnames, used local storage to save user data, and fake api with csv json package to parse the data on the front side. Also i wrote some backend with nodejs, used passport.js for authentication and mongo atlas, but for my less time i didn't finish all the implementation, but attached is a  repo link
+https://github.com/EdHayrapetyan01/mentor-app-backend
 
 
 
